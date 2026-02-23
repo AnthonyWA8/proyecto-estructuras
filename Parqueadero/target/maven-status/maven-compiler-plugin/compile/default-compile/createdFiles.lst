@@ -1,0 +1,4 @@
+interfaz\EmisorUI.class
+com\mycompany\parqueadero\Parqueadero.class
+interfaz\PanelIngreso.class
+interfaz\PanelSalida.class
